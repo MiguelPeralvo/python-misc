@@ -1,4 +1,4 @@
 python-misc
 ===========
 
-python-misc
+Miscellaneous Python Scripts
