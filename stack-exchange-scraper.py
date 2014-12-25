@@ -1,4 +1,5 @@
 #Stack Exchange Scraper for Hackerrank
+#8/2014 - Miguel Peralvo
 import re
 import sys 
 
